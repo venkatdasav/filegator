@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/filegator/filegator/master/dist/img/logo.svg">
 </p> 
 -->
+<!--
 
 <p align="center">
 <a href="https://demo.filegator.io"><img src="https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=flat-square" alt="Live demo"></a>
@@ -10,15 +11,15 @@
 <a href="https://codecov.io/gh/filegator/filegator"><img src="https://codecov.io/gh/filegator/filegator/branch/master/graph/badge.svg" alt="Code Coverage"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
   </p>
+-->
 
+## PIXO IMAGIC - Powerful Multi-User File Manager
 
-## FileGator - Powerful Multi-User File Manager
-
-FileGator is a free, open-source, self-hosted web application for managing files and folders.
+IMAGIC is a free, open-source, self-hosted web application for managing files and folders.
 
 You can manage files inside your local repository folder (on your server's hard drive) or connect to other storage adapters (see below).
 
-FileGator has multi-user support so you can have admins and other users managing files with different access permissions, roles and home folders.
+IMAGIC has multi-user support so you can have admins and other users managing files with different access permissions, roles and home folders.
 
 All basic file operations are supported: copy, move, rename, edit, create, delete, preview, zip, unzip, download, upload.
 
@@ -75,7 +76,7 @@ FileGator is a free, open-source project. It's an independent project with its o
   </tbody>
 </table>
 -->
-
+<!--
 ## Typical use cases
 - share a folder with colleagues, your team, friends or family
 - give students access to upload their work
@@ -96,7 +97,7 @@ This is read-only demo with guest account enabled.
 
 ## Documentation
 [Check out the documentation](https://docs.filegator.io/)
-
+-->
 
 ## Features & Goals
 - Multiple storage adapters (Local, FTP, Amazon S3, Dropbox, DO Spaces, Azure Blob and many others via [Flysystem](https://github.com/thephpleague/flysystem))
@@ -118,7 +119,7 @@ This is read-only demo with guest account enabled.
 
 See [install instructions](https://docs.filegator.io/install.html) for Ubuntu 18.04 or Debian 10.3. Get $100 in ([server credits here](https://m.do.co/c/93994ebda78d)) so you can play around.
 
-
+<!--
 ## Download precompiled build
 Precompiled build is created for non-developers. In this version, the frontend (html, css and javascript) is compiled for you and the source code is removed so the final archive contains only minimum files.
 
@@ -150,7 +151,7 @@ npm run serve
 ```
 Once everything is ready visit: `http://localhost:8080`
 
-
+-->
 ## Run tests & static analysis
 
 Testing requires xdebug, php-zip and sqlite php extensions.
@@ -176,9 +177,10 @@ Please ⭐️ this repository if this project helped you!
 ## Security
 
 If you discover any security related issues, please email alcalbg@gmail.com instead of using the issue tracker.
-
+<!--
 ## License
 
 Copyright (c) 2019 [Milos Stojanovic](https://github.com/alcalbg).
 
 This project is MIT licensed.
+-->
