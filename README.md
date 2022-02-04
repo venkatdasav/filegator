@@ -25,12 +25,12 @@ All basic file operations are supported: copy, move, rename, edit, create, delet
 If allowed, users can download multiple files or folders at once.
 
 File upload supports drag&drop, progress bar, pause and resume. Upload is chunked so you should be able to upload large files regardless of your server configuration.
-
+<!--
 <p align="center">
 <a href="https://demo.filegator.io"><img src="https://filegator.io/img/animated.gif" alt="Screenshot"></a>
 </p>
-
-
+-->
+<!--
 ## Sponsors & Backers
 FileGator is a free, open-source project. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome [backers](https://github.com/filegator/filegator/blob/master/BACKERS.md). If you'd like to join them, please consider:
 
@@ -74,7 +74,7 @@ FileGator is a free, open-source project. It's an independent project with its o
     </tr>
   </tbody>
 </table>
-
+-->
 
 ## Typical use cases
 - share a folder with colleagues, your team, friends or family
