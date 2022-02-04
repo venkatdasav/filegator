@@ -1,6 +1,7 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/filegator/filegator/master/dist/img/logo.svg">
-</p>
+</p> 
+-->
 
 <p align="center">
 <a href="https://demo.filegator.io"><img src="https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=flat-square" alt="Live demo"></a>
