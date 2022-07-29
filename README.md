@@ -13,7 +13,7 @@
   </p>
 -->
 
-## PIXO IMAGIC - Powerful Multi-User File Manager
+## IMAGIC - Powerful Multi-User File Manager
 
 IMAGIC is a free, open-source, self-hosted web application for managing files and folders.
 
